@@ -17,7 +17,7 @@ Finally, the slicing setup for this network includes two slices, a "high perform
 ## Running the demo
 To run this demo, we recommend opening two separate terminal windows: one for the controller and one for the rest of the network.
 
-Before running, make sure to run ```./build.sh``` to build the docker images for the network and make sure mininet is cleared.
+Before running, make sure to run ```./build.sh``` to build the docker images for the network and make sure mininet is cleared. Remember to make it executable with ```chmod +x ./build.sh``` before running it.
 
 Start the network controller first on one terminal window using:
 ```
